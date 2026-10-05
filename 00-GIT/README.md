@@ -1,0 +1,16 @@
+# Task 00 - GIT repository setup
+* Follow the instructions in the [root README.md page](../README.md).
+  Briefly:
+  1. Create **your own private GIT repository** – [GitLab](https://gitlab.mff.cuni.cz/) and
+  [GitHub](https://github.com/) are two recommended platforms.
+  2. **Link the original (this) repository** as **`remote upstream`** - you can use the command
+  `git remote add upstream https://github.com/pepcape/NPGR003-26.git`
+  3. **Import data** from the `upstream`, you will get the complete original repo,
+  you will be able to update it (`git pull upstream main`) and keep it
+  in sync with `NPGR003-26`. However, you should work in the `solution` directory only.
+  4. Grant us **permissions** ("reporter", "collaborator") to your repository –
+  <https://gitlab.mff.cuni.cz/pelikan>, <https://github.com/pepcape> or TODO-Silvie
+  <!-- <https://gitlab.mff.cuni.cz/isert>, <https://github.com/tomasiser> -->
+* Don't forget to send us an email with **URL of your repo** and your **real name** (the first name and the surname)
+* If your cell in the [shared table](https://docs.google.com/spreadsheets/d/12NdXEyeaf99TKEL6dWXRVGirwLDUrR3pQi2k00i-Unk/edit?usp=sharing)
+is colored, it indicates some kind of problem, try to fix it as soon as possible.
