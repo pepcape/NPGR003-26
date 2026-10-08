@@ -112,7 +112,7 @@ real name.
 2. Connect it to
 our shared GIT using `git remote`. The command might look like this
 ```bash
-$ git remote add upstream https://github.com/pepcape/NPGR003-25.git
+$ git remote add upstream https://github.com/pepcape/NPGR003-26.git
 ```
 3. You have to give us permissions to access your private
 repository, this is done using the **"Reporter"** role.
