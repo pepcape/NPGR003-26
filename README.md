@@ -102,8 +102,7 @@ $ git remote add upstream https://github.com/pepcape/NPGR003-26.git
 3. You have to give us permissions to access your private
 repository, this is done using the **"Collaborator"** role.
 Depending on who your lab supervisor is, you invite either
-https://github.com/pepcape or
-<!-- https://github.com/tomasiser--> TODO-Silvie.
+https://github.com/pepcape or https://github.com/SilviePap.
 4. If your GitHub username is a **nickname**, please email us with your
 real name.
 
@@ -117,8 +116,7 @@ $ git remote add upstream https://github.com/pepcape/NPGR003-26.git
 3. You have to give us permissions to access your private
 repository, this is done using the **"Reporter"** role.
 Depending on who your lab supervisor is, you invite either
-https://gitlab.mff.cuni.cz/pelikan or
-<!-- https://gitlab.mff.cuni.cz/isert--> TODO-Silvie.
+https://gitlab.mff.cuni.cz/pelikan or https://gitlab.mff.cuni.cz/paprskas.
 
 Finally, import data from the `upstream`, you will get the complete original repo,
 you will be able to update it (`git pull upstream main`) and keep it
