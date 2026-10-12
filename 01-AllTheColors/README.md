@@ -70,7 +70,7 @@ Please place your solution in a separate [solutions](../solutions/README.md)
 directory in the repository. You'll find short instructions there.
 
 # Launch date
-**Thursday 8 October 2026**
+**Thursday 15 October 2026**
 (Don't work on the solution before this date)
 
 # Deadline
